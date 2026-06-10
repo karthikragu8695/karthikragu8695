@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Karthik
 
-<!--
-**karthikragu8695/karthikragu8695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter Developer
 
-Here are some ideas to get you started:
+🚀 1+ Years Experience in Flutter & FlutterFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Flutter
+- FlutterFlow
+- Dart
+- Supabase
+- Firebase
+- REST API
+- Git & GitHub
+
+### Portfolio
+
+🌐 https://karthiportfolio07.netlify.app/
+
+### Contact
+
+📧 karthikragu8695@gmail.com
+
+📍 Trichy, Tamil Nadu
+
+### Current Focus
+
+- Flutter Development
+- Mobile App Development
+- Supabase Backend
+- Building Production Apps
